@@ -14,7 +14,7 @@
     "emoji-regex": "^6.0.0"
   },
   "devDependencies": {
-    "standard": "*",
+    "standard": ">=9.0.0",
     "tap-spec": "^4.0.2",
     "tape": "^4.0.0"
   },
