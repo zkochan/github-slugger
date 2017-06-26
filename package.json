@@ -16,7 +16,7 @@
   "devDependencies": {
     "standard": "*",
     "tap-spec": "^4.0.2",
-    "tape": "^4.0.0"
+    "tape": "^4.7.0"
   },
   "homepage": "https://github.com/Flet/github-slugger",
   "keywords": [
